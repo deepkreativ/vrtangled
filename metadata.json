@@ -1,0 +1,7 @@
+{
+  "name": "Kinship",
+  "description": "Find your real family. Connect with people who share your psychology, upbringing, and location.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
